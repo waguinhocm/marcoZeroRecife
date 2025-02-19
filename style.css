@@ -16,8 +16,13 @@ nav{
     justify-items: center;
 }
 ul{
+    display: flex;
     list-style: none;
     text-align: center;
+}
+li{
+    margin: 15px;
+
 }
 .btn{
     display: flex;
